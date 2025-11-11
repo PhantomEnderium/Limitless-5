@@ -1,3 +1,1280 @@
+<h1>v2.34.1</h1>
+
+**Hotfix. Fixes world timeouts.**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Removed**
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) <br />
+  ^ (**Version for MC 1.18.2 removed from CF.**)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) <br />
+  ^ (**Caused world timeout crashes.**)
+
+
+**Notable Fixes**
+- **Fixed** a **world timeout freeze issue**.
+
+
+**Current Forge Version**
+- 40.2.10
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.34.0</h1>
+
+**Three mods removed due to compat and crashing issues. Fixes & changes in mod updates.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) (**Compat issue with mods.**)
+- [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - (**Removed due to crashes on some systems.**)
+- [Tetra Pak](https://www.curseforge.com/minecraft/mc-mods/tetra-pak) (**Crashes with Create 0.5.1c**.)
+
+
+**Notable Changes**
+- **Added** a **Screenshot Button** to the **in-game pause menu**.
+- (**!**) Some **changes** in **mod updates, as always**.
+
+
+**Notable Fixes**
+- (**!**) Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- **Forge** from version **40.2.4** to **40.2.10**
+- (**!**) All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.10
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.33.0</h1>
+
+**Some performance improvements. And some changes & fixes in mod updates!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
+- [CullLessLeaves](https://legacy.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
+- [ImmediatelyFast Reforged](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast-reforged)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **40.2.0** to **40.2.4**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.4
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.32.0</h1>
+
+**Two mods added, one mod removal & mod updates.** <br />
+(**Note: Portable Tanks mod removed this update!**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses)
+- [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
+
+
+**Removed**
+- [Portable Tanks](https://www.curseforge.com/minecraft/mc-mods/portable-tanks) <br />
+(**Removed due to issues with updating other mods. Can be re-added when fixed!**)
+
+
+**Changes**
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.31.0</h1>
+
+**Thermal Dynamics & mod updates this time. Enjoy!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Removed **Official Servers** that have been **closed** from the **server list**.
+- Added a new **button** called "**FPS**" to the **in-game** '**pause**' **menu**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- A **Digital Miner** crash has been **resolved**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.30.0</h1>
+
+**Mod Updates, new quest chapter and a few fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Statistic Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats)
+
+
+**Removed**
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+
+
+**Changes**
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- **Fixed** some **Raw Storage Blocks** outputting the **wrong type** of **dusts** in the **Enrichment Chamber**.
+- **Fixed** a few **Tinkers Reforged** melting recipes **outputting** the **wrong amount in mB**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Added a new **Chapter**: **Industrial Contraptions**.
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.84** to **40.2.0**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.29.0</h1>
+
+**Mod Updates. Fixes and some changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added a **Note** to the **Enchanting Power** tooltip in the **Enchanting Infuser**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Removed a few quests from the **Thermal Series Chapter**.
+- Removed a **quest** in the **Occultism Chapter**.
+- Edited **Enchanting Infuser** description.
+- Fixed a **dependency issue**.
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.28.0</h1>
+
+**A mod addition, some fixes, and a few changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [What's That Slot?](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- You can now **query** which **items** can be **placed** in a **specific slot** by holding down **Left-Alt**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Fixed vanilla **Lantern** not being **accepted** into some **multiblock structures**.
+- **Dank Storage** item slots "**being invisible**" / "**out of sync**" has been **fixed**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.27.0</h1>
+
+**Dank Storage, a mod removed, some changes & fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+
+
+**Removed**
+- [Corail Adventurer](https://www.curseforge.com/minecraft/mc-mods/corail-adventurer) (**Caused Issues.**)
+
+
+**Changes**
+- Added a **recipe** for **Ink Sac**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- **CTRL + A** in the **JEI Search Bar** not **working** has been **fixed**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Re-Added a **Mini-Chapter**: **Dank Storage**.
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.26.2</h1>
+
+**An Actual Important Hotfix!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- Actually fixed a critical a "**Rendering entity in world**" crash.
+
+
+**Updated**
+- Updated **1** mod.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.26.1</h1>
+
+**Important Hotfix!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- A critical "**Rendering entity in world**" crash has been **resolved**. (**Hopefully...**)
+
+
+**Updated**
+- Updated **1** mod.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.26.0</h1>
+
+**Two new mods, some changes, fixes & more**!
+
+**Note: Any generators from the mod "@Iron Generators" will be erased from your world if you update**!
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk)
+- [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore)
+
+
+**Removed**
+- [Iron Generators](https://www.curseforge.com/minecraft/mc-mods/iron-generators) (**Replaced by @Generator Galore**.)
+
+
+**Changes**
+- **Removed** the **Official EU-2 Server** from **server-list** by **default** as it has **closed its doors**.
+- Structures from **@Dungeons Arise** are now **less likely** to **collide** with **each other**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- **Renamed** the chapter "**Iron Furngens**" to "**Iron Galore**".
+- **Updated** the **Apotheosis Chapter**.
+- **Fixed** a few **typos**.
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **update**d have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.25.0</h1>
+
+**A new mod, fixes & some changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Cooking](https://www.curseforge.com/minecraft/mc-mods/applied-cooking)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **support** for the **Flashing Archwood Sapling** in **@Bonsai Pots**.
+- Some changes in mod updates, as always.
+
+
+**Fixes**
+- Some fixes in mod updates, as always.
+
+
+**Quests**
+- An **Invalid Quest Reward** in the **Ars Nouveau chapter** has been **resolved**.
+- Other minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.80** to **40.1.84**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.24.0</h1>
+
+**Fixes, some changes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- **Ghasts**, **Withers** & **Wither Skeletons** now drop their **intended loot tables** again.
+- Added a "**warning tooltip**" to **@Iron Generators**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Ghasts**, **Withers** & **Wither Skeletons** not **dropping** their **intended loot tables**.
+- Some fixes in mod updates, as always.
+
+
+**Quests**
+- Added a **few new quests** to the **Thermal Series** chapter.
+- Fixed a **reward issue** in the **@Hex Casting Chapter**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.23.1</h1>
+
+**Items not stacking fixed, a duping issue fixed. Recommended to update!**
+
+**Note: Already "unstackable items" will stay unstackable until dropped onto the ground then merged.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- **Items** not **stacking** when they are **newly picked** up or **similar** has been **fixed**.
+- A **duping issue** has been **resolved**.
+
+
+**Updated**
+- Updated **2** mods.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.23.0</h1>
+
+**Fixes, some quests changes + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- Increased **generation chances** for **Dungeon Crawl dungeons** slightly.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Fixed** a **few typos** in some **Tips**.
+- **Fixed** a **recipe conflict**.
+- Some fixes in mod updates, as always.
+
+
+**Quests**
+- Updated the **Hex Casting** chapter a bit.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.22.0</h1>
+
+**Smaller update which contains mod updates & 3 new quest-chapters!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Split** the custom "**Compact Ores Textures**" into a seperate **Resource Pack** so it can be "**moved up and down**" individually.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Fixed** a few **recipe conflicts**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added a new **Chapter**: **Cooking & Farming for Blockheads**.
+- Added a new Chapter: **Hex Casting**. (**By: PhantomEnderium**.)
+- Added a new **Mini-Chapter**: **Pocket Storage**.
+- Other minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.21.1</h1>
+
+**Some fixes for structure generation, optional but recommended to update.**
+
+**Click link below for the full 2.21.x changelog:**
+
+[https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2210)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- Fixed **structures** rarely **generating** over **bodies of water**.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.21.0</h1>
+
+**New Critters, New Quests, Controller Support & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable)
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions)
+- [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome)
+- [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture)
+- [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eterrnity)
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)
+- [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Refined Cooking](https://www.curseforge.com/minecraft/mc-mods/refined-cooking)
+- [Some Assembly Required](https://www.curseforge.com/minecraft/mc-mods/some-assembly-required)
+
+
+**Removed**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - (**Replaced by Eccentric Tome.**)
+
+
+**Changes**
+- Added **@Alex's Mobs** - **mob drops** to most common **Loot Tables** since spawns are **disabled**.
+- Crafting the **Eccentric Tome** will now include **guide books**.
+- Added an **advancement** for **obtaining** your first **Loot Bag**.
+- Added **uncrafting recipes** for some **Storage Blocks**.
+- Added **recipes** for the **@Beyond Earth - Globes**.
+- Added some new **Tips** to the **loading screens**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added a new **Chapter**: **Tinkers' Construct**.
+- Updated **description** for the "**Eating 115 Everyday, 115 Years, Forever**" quest.
+- Other minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.73** to **40.1.80**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.20.2</h1>
+
+**Important fixes. Recommended to update!**
+
+**Click link below for the full 2.20.x changelog:**
+
+[https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- Turn off "**buffer_particles**" in the **Lodestone** config.
+
+
+**Fixes**
+- Errors in **console** when typing **invalid commands** are now **fixed**.
+- Weird **artifacting & crashes** when using **Rubidium** is now **fixed**.
+- World **freezing & crashing** due to **watchdog** has been **fixed**.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.20.1</h1>
+
+**Hotfix removing Geode+ & Geode O' Plenty due to some crashing issues in The Nether.**
+
+**Click link below for the full 2.20.x changelog:**
+
+[https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200)
+
+
+**Removed**
+- [Geode+](https://www.curseforge.com/minecraft/mc-mods/geode-forge/) 
+- [Geode O' Plenty](https://www.curseforge.com/minecraft/mc-mods/geode-o-plenty)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.20.0</h1>
+
+**More Furniture, Geodes, ChocoCraft & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Geode+](https://www.curseforge.com/minecraft/mc-mods/geode-forge/) (+ [Geode O' Plenty](https://www.curseforge.com/minecraft/mc-mods/geode-o-plenty))
+- [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture)
+- [Rebind Narrator](https://www.curseforge.com/minecraft/mc-mods/rebind-narrator)
+- [Tinkers' Rapier](https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier)
+- [World Pre Generator](https://www.curseforge.com/minecraft/mc-mods/world-pre-generator)
+
+
+**Removed**
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - (**Removed temporarily due to some issues.**)
+
+
+**Changes**
+- **Blacklisted** the **Red Merchant & Wandering Trapper** from **spawning** around **players** with the **@NoMoWanderer** items/blocks.
+- Disabled **@Create compat for @AgriCraft** due to the mod not supporting the latest **@Create** update.
+- Added more **alternative recipes** for the **rest** of the **Demon Bricks**.
+- **Unbinded** the **Narrator keybinding** by **default**.
+- Cleaned up the **console / latest.log** file.
+- Some changes in mod updates.
+
+
+**Fixes**
+- ***Potentially*** fixed a **worldgen freezing issue** leading to a **Watchdog crash**.
+- Fixed some **invalid items** in the **loot tables** from **@IDAS**.
+- Fixed **Nether Osmium Ore** not being **harvestable**.
+- Fixed some **invalid mobs** spawning in **The End**.
+- Fixed **Camps** generating when they **shouldn't**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.19.1</h1>
+
+**Small update with fixes and some changes.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- **Blacklisted** the **Goblin Trader** from **spawning** around **players** with the **@NoMoWanderer** items/blocks.
+- Blacklisted **Bee Cages** from being used inside non-allied **claimed chunks**.
+- You no longer **spawn** with the **@Caupona - Guide Book**.
+- Lowered **spawnrates** for **@Apotheosis** - **Bosses**.
+
+
+**Fixes**
+- **Fixed** a few **tag** and **recipe** issues.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.19.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
+- [Caupona](https://www.curseforge.com/minecraft/mc-mods/caupona)
+- [Pinnacle](https://www.curseforge.com/minecraft/texture-packs/pinnacle) - (Resource Pack!)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some changes in mod updates.
+
+
+**Fixes**
+- Corrected the **@Beyond Earth** meteorite **loot table**. (**Steel Ingot type.**)
+- Turned off **Armor Auto Refill** to **resolve** a **few issue**s.
+- **Crawling Speed** being **very fast** has been **fixed**.
+- Fixes in **mod updates**.
+
+
+**Quests**
+- Fixed a **minor typo**.
+- Minor changes.
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.18.2</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched) + [Pollen](https://www.curseforge.com/minecraft/mc-mods/pollen) (**Removed due to performance issues.**)
+
+
+**Changes**
+- **Disabled** all **mob spawns** in **@Alex's Mobs**. - (**Due to Performance issues.**)
+(**Note:** Mod can't be **removed** due to it being **required** for the mod **@IDAS**.)
+- **Lowered spawnrate** of all **@Dungeon's Arise** structures.
+- Some changes in mod updates.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.18.0</h1>
+
+**Hex Casting, Pylons & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Clear Despawn](https://www.curseforge.com/minecraft/mc-mods/clear-despawn)
+- [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Pylons](https://www.curseforge.com/minecraft/mc-mods/pylons)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Added support** for the **Inferium Seed** in the **@Thermal Series - Phytogenic Insolator**.
+- **Blacklisted** various "**invalid items**" from the **Loot Bag loot table**.
+- Added **tags** to some **fluids & blocks** to add more **compatibility**.
+- **Loading Screen Tips** will now be **shown** on **screen** for **longer**.
+- **Lowered** the **Dungeon Crawl - Dungeon** spawn **probability**.
+- **Pillager Fortress's** no **longer spawns** constant **Pillagers**.
+- **Disabled** the **@ElementalCraft - Nectar Upgrade**.
+- Added a **recipe** for **Demon Stone**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Fixed** a pretty **common crash** when joining a **world**. - (**v2.18.1**)
+- JEI **search highlighting** not **working** has been **solved**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- **Added** a new **Chapter**: **Mana and Artifice**. (**By: Roncarlos974!**)
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.68** to **40.1.73**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
+<h1>v2.17.0</h1>
+
+**The .1 update changes a config I forgot. Whoops.**
+
+**Note: It's recommended to regenerate the serverconfig folder within your world folder this update.** <br />
+**(Delete the folder then start server.)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Compact Crafting](https://www.curseforge.com/minecraft/mc-mods/compact-crafting)
+- [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched)
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Leaving** a **Compact Machine room** inside the **dimension** now **yields** the **Poison Effect**.
+- Added the newly opened **"NA2" server** to the **multiplayer list** by **default**.
+- Trophy **drop chances** are no longer **affected** by the **Looting Enchantment**.
+- **Adjusted** the **recipe** for the **Normal & Advanced Enchanting Infuser**.
+- **Trophies** now only **drop** if mobs are **killed** by the **player**.
+- Added **support** for all **BYG Saplings** in the **Bonsai Pots**.
+- Increased **spawn propability** for the **Crimson Iron Ore**.
+- **Adjusted** the **alternate recipes** for all **AE2 Presses**.
+- You can now **reroll** the **Librarian Villager** trades.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Enchantment Table** not being **openable**. - (**v2.17.1**)
+- **Enchanting Infuser** only reaching a **maximum power level** of **15** has been **fixed**.
+- Fixed **Sapling tags** on the **BYG Saplings**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Removed the "**Architect's Favor**" quest in the **Enigmatic Legacy** Chapter.
+- Adjusted the **descriptions** for the **Enchanting Infuser** quests.
+- Updated the **Hexerei Chapter**. (Thanks **Roncarlos974**!)
+- Added **18 new quests** to the **Buddycards Chapter**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.68
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.16.0</h1>
 
 **Fixes, changes, some mod additions & more!**
